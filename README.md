@@ -1,2 +1,3 @@
 # Java-AWT-Projects
-Done Using AWT Package
+-
+These are the simple Java Projects Done using java AWT package :)
